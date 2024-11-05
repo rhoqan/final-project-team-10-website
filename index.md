@@ -34,6 +34,20 @@ Our solar-powered smart pedestrian crossing system will automatically detect inc
 
 
 ## Video Ideas
+- Da Vinci Resolve Free Editing Software
+- Start with Title Screen, Problem Statement, and Overview of our Solution
+1. Opening (5-10 seconds)
+Title Screen: Display project title ("Pedestrian Safety System"), team member names, course info (ECE 196, Fall 2024).
+2. Problem Statement & Solution Overview (20-30 seconds)
+3. System Design Overview (40-50 seconds)
+Slide or Diagram: Show a labeled diagram or graphic of the system, outlining the main components (two ESP32 Cams, RGB LED matrix, LoRa module, solar power).
+4. PCB Design & Customization (30-40 seconds)
+Footage or Screenshots: Show close-ups of the PCB design and the final prototype.
+5. Prototype and Demo (50 seconds - 1.5 minutes)
+Footage: Demonstrate the prototype in action, showing both cameras, the RGB LED matrix, and the reaction when a pedestrian or jaywalker is detected.
+6. Challenges and Future Improvements (20-30 seconds)
+7. Closing (5-10 seconds)
+Thank You Screen: “Thank you for watching!” with links to the project’s GitHub or a way to reach out for questions.
 
 [Poster Link](https://docs.google.com/presentation/d/1piVCpWneqZ5gmzYCBuGzzY3xZIutdS-CmckrON2Q2YI/edit?usp=sharing)
    
