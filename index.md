@@ -6,6 +6,16 @@
 
 <h3 style="text-align:center;"> Fall 2024</h3>
 
+## Problem
+
+## Proposed Solution
+
+## Hypothesis
+
+## Milestones
+
+
+
 [Poster Link](https://docs.google.com/presentation/d/1piVCpWneqZ5gmzYCBuGzzY3xZIutdS-CmckrON2Q2YI/edit?usp=sharing)
    
 
