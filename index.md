@@ -14,7 +14,7 @@
 
 ## Milestones
 
-
+## Video Ideas
 
 [Poster Link](https://docs.google.com/presentation/d/1piVCpWneqZ5gmzYCBuGzzY3xZIutdS-CmckrON2Q2YI/edit?usp=sharing)
    
