@@ -6,6 +6,8 @@
 
 <h3 style="text-align:center;"> Fall 2024</h3>
 
+## Our Team
+
 ## Problem
 Intersections are often difficult to navigate through. Traffic both vehicular and pedestrian can cause risks to safety of the pedestrians. 
 
@@ -31,6 +33,12 @@ Our solar-powered smart pedestrian crossing system will automatically detect inc
 6. Use the model to detect people using ESP-32S3 Board (Sunday - Week 7)
 7. Be able to charge battery using Solar Panel, and connect that to our ESP32 Board (Monday - Week 8)
 8. Creating custom software SPI pins for the LoRa transceiver, and interfacing it with the camera and RGB LEDS, and other ESP32 boards(Monday- Week 8)
+
+## Photos
+
+## Mini Project #3 Tutorial
+
+## Resources
 
 
 ## Video Ideas
