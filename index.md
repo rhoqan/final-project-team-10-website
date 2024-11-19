@@ -25,6 +25,11 @@ Our solar-powered smart pedestrian crossing system will automatically detect inc
 **Measurement Method**: We will go to pedestrian crossing, and in order to test our system, we will cross the road from different locations and at different angles, both inside the crosswalk and outside the crosswalk. Regardless of the angle and location, our LED’s should start flashing to indicate there is someone crossing. 
 
 ## Milestones
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
 1. Design PCB schematic (Monday- Week 5)
 2. Design PCB board (Thursday- Week 5)
 3. Be able to take pictures using the ESP-32S3 Board (Saturday – Week 5)
