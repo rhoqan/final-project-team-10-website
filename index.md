@@ -6,7 +6,7 @@
 
 <h3 style="text-align:center;"> Fall 2024</h3>
 
-## Our Team
+## [Our Team](https://rhoqan.github.io/final-project-team-10-website/Our_Team.html)
 
 ## Problem
 Intersections are often difficult to navigate through. Traffic both vehicular and pedestrian can cause risks to safety of the pedestrians. 
