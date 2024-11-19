@@ -1,4 +1,4 @@
-![UCSD ECE Logo](./UCSDLogo-JSOE-ElectricalandComputerEngineering-BlueGold-Web.jpg)
+![UCSD ECE Logo](./Images/UCSDLogo-JSOE-ElectricalandComputerEngineering-BlueGold-Web.jpg)
 
 <h1 style="text-align:center;"><b>Improving Pedestrian Safety at Intersections</b></h1>
     
