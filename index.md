@@ -28,11 +28,11 @@ Our solar-powered smart pedestrian crossing system will automatically detect inc
 
 - [x]  Design, fabricate, and assemble a custom PCB shield incorporating the LoRa module, TP4056 charger, and 3.3V linear regulator. Ensure compatibility with the ESP32 Cam and finalize soldering of external components.
 
-- []  Develop and test code to interface the ESP32 board with the LoRa module using custom SPI pins to ensure communication with the other ESP32 board.
+- [ ]  Develop and test code to interface the ESP32 board with the LoRa module using custom SPI pins to ensure communication with the other ESP32 board.
 - [x]  Interface individual components (ESP32 Cam, LoRa, Solar, RGB LED Matrix) with the ESP32 Board and test their functionality to ensure proper integration.
-- []  Validate the charging efficiency and output stability of the solar-powered TP4056 battery system to ensure reliable power for the ESP32 setup.
-- []  Design and print a custom enclosure for the PCB shield to protect the hardware and provide durable housing for outdoor use.
-- []  Assemble the full project, including LED strips on the pedestrian crossing sign, and conduct a live demonstration to validate pedestrian detection, warning light activation, and LoRa communication.
+- [ ]  Validate the charging efficiency and output stability of the solar-powered TP4056 battery system to ensure reliable power for the ESP32 setup.
+- [ ]  Design and print a custom enclosure for the PCB shield to protect the hardware and provide durable housing for outdoor use.
+- [ ]  Assemble the full project, including LED strips on the pedestrian crossing sign, and conduct a live demonstration to validate pedestrian detection, warning light activation, and LoRa communication.
 
 ## Photos
 
