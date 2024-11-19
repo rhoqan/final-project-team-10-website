@@ -26,10 +26,10 @@ Our solar-powered smart pedestrian crossing system will automatically detect inc
 
 ## Milestones
 
-[x] Design, fabricate, and assemble a custom PCB shield incorporating the LoRa module, TP4056 charger, and 3.3V linear regulator. Ensure compatibility with the ESP32 Cam and finalize soldering of external components.
+[x]  Design, fabricate, and assemble a custom PCB shield incorporating the LoRa module, TP4056 charger, and 3.3V linear regulator. Ensure compatibility with the ESP32 Cam and finalize soldering of external components.
 
-[ ] Update the website
-[ ] Contact the media
+[x]  Update the website
+[x]  Contact the media
 
 1. Design PCB schematic (Monday- Week 5)
 2. Design PCB board (Thursday- Week 5)
