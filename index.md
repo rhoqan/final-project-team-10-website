@@ -17,6 +17,8 @@ The proposed solution for our **Pedestrian Safety System** aims to enhance road 
 
 To ensure reliable, wireless communication between the modules, we integrated LoRa technology. The setup is solar-powered, utilizing a TP4056 charging module to maintain the battery, and regulated by an MCP1700 LDO to consistently supply the ESP32 with 3.3V. This design not only addresses pedestrian safety but does so sustainably by leveraging solar power and low-power communication for continuous operation in diverse environments.
 
+![Diagram](./Images/Diagram%20for%20Pedestrian%20Crossing%20Project.jpeg)
+
 
 ## Hypothesis
 
