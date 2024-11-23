@@ -1,5 +1,5 @@
 name: ECE 196 Final Project Website
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/hacker@v0.2.0
 # Where things are
 source              : .
 destination         : ./_site
@@ -31,7 +31,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : [- jekyll-remote-theme]
 
 # Conversion
 markdown            : kramdown
